@@ -1,6 +1,9 @@
 # Personal-Finance-Manager
 A terminal-based python application that helps users track income,  expense, check balance , maintain transaction history, and generate monthly financial summaries using JSON data storage.
 
+#screenshots of output
+![Personal Finance Manager](finance-manager-screenshot1.png)
+
 Key Features
 . Income tracking with sorurce categorization
 . Expense management with category classification
