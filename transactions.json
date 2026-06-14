@@ -1,0 +1,24 @@
+[
+    {
+        "type": "income",
+        "source": "Salary",
+        "amount": 50000.0,
+        "date": "2026-06-14 10:47"
+    },
+    {
+        "type": "income",
+        "source": "Business",
+        "amount": 20000.0,
+        "date": "2026-06-14 10:48"
+    },
+    {
+        "type": "expense",
+        "category": "shopping",
+        "amount": 5000.0
+    },
+    {
+        "type": "expense",
+        "category": "Subscriptions",
+        "amount": 5000.0
+    }
+]
